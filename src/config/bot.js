@@ -16,7 +16,7 @@ export const botConfig = {
 
     // Activity lines shown under the bot name.
     // `type` number mapping from Discord:
-    // 0 = Playing
+    // 0 = Fingering
     // 1 = Streaming
     // 2 = Listening
     // 3 = Watching
@@ -27,7 +27,7 @@ export const botConfig = {
         // Text users will see (example: "Playing /help | Titan Bot").
         name: "Idaho Systems",
         // Activity type number (0 = Playing).
-        type: 6, 
+        type: 0, 
       },
     ],
   },
