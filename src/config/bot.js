@@ -16,7 +16,7 @@ export const botConfig = {
 
     // Activity lines shown under the bot name.
     // `type` number mapping from Discord:
-    // 0 = Fingering
+    // 0 = Playing
     // 1 = Streaming
     // 2 = Listening
     // 3 = Watching
