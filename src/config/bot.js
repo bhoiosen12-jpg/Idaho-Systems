@@ -22,6 +22,7 @@ export const botConfig = {
     // 3 = Watching
     // 4 = Custom
     // 5 = Competing
+    // 6 = Fingering
     activities: [
       {
         // Text users will see (example: "Playing /help | Titan Bot").
